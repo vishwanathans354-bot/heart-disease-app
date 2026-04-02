@@ -1,0 +1,15 @@
+/.gradle/
+/build/
+**/build/
+.kotlin/
+/.idea/
+*.iml
+local.properties
+.DS_Store
+captures/
+*.apk
+*.aab
+
+# Node deploy tooling
+node_modules/
+/qr.png

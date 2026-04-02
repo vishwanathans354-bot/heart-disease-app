@@ -1,0 +1,16 @@
+{
+  "name": "heart-disease-app-deploy",
+  "private": true,
+  "description": "Local APK deploy: build, serve, QR for same-network install",
+  "scripts": {
+    "deploy": "node scripts/deploy.js",
+    "start:server": "node scripts/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

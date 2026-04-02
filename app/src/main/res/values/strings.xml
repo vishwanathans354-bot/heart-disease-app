@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heart Risk</string>
+    <string name="medical_disclaimer">This is not a medical diagnosis. Consult a doctor.</string>
+</resources>
